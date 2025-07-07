@@ -1,0 +1,36 @@
+[
+  {
+    "txId": "tx12345",
+    "value": {
+      "harvestDate": {
+        "day": 27,
+        "month": 2,
+        "year": 2024
+      },
+      "id": "p1",
+      "prodDesc": "Tomato",
+      "producerAddr": "Madanapalli, AndhraPradesh",
+      "producerName": "National Tomato Farm",
+      "wareHouse": "retailer",
+      "distributerDetails": {
+        "distributerName": "National Vegetables",
+        "distributerAddr": "Hyderabad, Telangana",
+        "distributerTxDate": {
+          "day": 1,
+          "month": 3,
+          "year": 2024
+        }
+      },
+      "retailerDetails": {
+        "retailerName": "Vegetable Bazar",
+        "retailerAddr": "Electronic City, Hyderabad, Telangana",
+        "retailerTxDate": {
+          "day": 3,
+          "month": 3,
+          "year": 2024
+        }
+      }
+    },
+    "isDelete": false
+  }
+]
